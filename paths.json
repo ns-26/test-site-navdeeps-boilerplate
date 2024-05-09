@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json"
+    "/content/test-site-navdeeps-boilerplate/:/",
+    "/content/test-site-navdeeps-boilerplate/configuration:/.helix/config.json"
   ]
 }
